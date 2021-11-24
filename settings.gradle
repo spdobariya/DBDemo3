@@ -1,0 +1,2 @@
+rootProject.name = "DBDemo3"
+include ':app'
